@@ -1,0 +1,7 @@
+[
+  { "letra": "A", "pregunta": "Animal que vuela", "respuesta": "ave" },
+  { "letra": "B", "pregunta": "Color del cielo", "respuesta": "azul" },
+  { "letra": "C", "pregunta": "Bebida caliente", "respuesta": "cafe" },
+  { "letra": "D", "pregunta": "Parte del cuerpo para oír", "respuesta": "oreja" },
+  { "letra": "E", "pregunta": "Planeta", "respuesta": "tierra" }
+]
